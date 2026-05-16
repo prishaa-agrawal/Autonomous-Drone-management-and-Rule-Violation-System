@@ -106,4 +106,3 @@ Airport Airspace Monitoring
 Industrial Zone Protection
 Event Security Management
 
-Updated README
